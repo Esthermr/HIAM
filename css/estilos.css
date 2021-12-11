@@ -170,3 +170,23 @@ article p{
 	display: flex;
 	flex-direction: column;
 }
+.aspecto{
+	width: 60%;
+	float:right;
+}
+.aspecto h1{
+	text-align: center;
+	padding-bottom: 1em;
+	font-size: 2em;
+	font-weight: 700;
+}
+.aspecto p{
+	font-weight: 200;
+}
+.primero .img{
+	width: 25em;
+	height: 15em;
+	margin-top:5em;
+	background-image: url(../img/undraw_prototyping_process_re_7a6p.svg);
+	background-size: cover;
+}
